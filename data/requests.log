@@ -1,0 +1,6 @@
+
+        [2025-02-08T00:11:08.961Z]
+        REQUEST: {"ActivityLevelIds":["76d98498-60a1-430c-ab76-b54a29b7a163"],"ExpectedPlayerIds":[],"RegionPings":[{"RegionId":"eu","Ping":108},{"RegionId":"us","Ping":11},{"RegionId":"usw","Ping":87},{"RegionId":"cae","Ping":37},{"RegionId":"asia","Ping":258},{"RegionId":"jp","Ping":176},{"RegionId":"au","Ping":220},{"RegionId":"sa","Ping":140},{"RegionId":"in","Ping":329},{"RegionId":"none","Ping":105},{"RegionId":"none","Ping":193},{"RegionId":"kr","Ping":222},{"RegionId":"none","Ping":482},{"RegionId":"none","Ping":161},{"RegionId":"none","Ping":258},{"RegionId":"none","Ping":55},{"RegionId":"none","Ping":232}]}
+        RESPONSE: {"Result":0,"GameSession":{"GameSessionId":2680702690498409000,"RegionId":"us","RoomId":"76d98498-60a1-430c-ab76-b54a29b7a163","RecRoomId":null,"EventId":null,"CreatorPlayerId":116111,"Name":"LocalKittyRoom3.5","ActivityLevelId":"76d98498-60a1-430c-ab76-b54a29b7a163","Private":true,"Sandbox":false,"SupportsScreens":true,"SupportsVR":true,"GameInProgress":false,"MaxCapacity":20,"IsFull":false}}
+        -------------------------------------
+    

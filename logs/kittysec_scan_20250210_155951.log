@@ -1,0 +1,13 @@
+2025-02-10 15:59:51,967 - INFO - Starting Kittysec URL scan in directory: . with 300 threads
+2025-02-10 15:59:52,157 - INFO - Found and saved 2 Kittysec URLs in scaned.py:
+2025-02-10 15:59:52,161 - INFO -   - 'kittysec.com'
+2025-02-10 15:59:52,170 - INFO - Found and saved 1 Kittysec URLs in KittyRec.exe.Source code.txt:
+2025-02-10 15:59:52,173 - INFO -   - kittysec.com
+2025-02-10 15:59:52,174 - INFO -   - KittySec.com
+2025-02-10 15:59:52,292 - INFO - Found and saved 2 Kittysec URLs in data\Update.py:
+2025-02-10 15:59:52,293 - INFO -   - 'https://kittyrec.kittysec.com/api/check_version'
+2025-02-10 15:59:52,293 - INFO -   - https://kittyrec.kittysec.com/userdata
+2025-02-10 15:59:52,309 - INFO - Found and saved 3 Kittysec URLs in data\logs\update.log:
+2025-02-10 15:59:52,309 - INFO -   - https://kittyrec.kittysec.com:443
+2025-02-10 15:59:52,309 - INFO -   - kittyrec.kittysec.com:443
+2025-02-10 15:59:52,651 - INFO -   - https://kittyrec.kittysec.com/api/check_version

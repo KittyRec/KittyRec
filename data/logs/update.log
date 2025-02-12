@@ -1,0 +1,22 @@
+2025-02-10 15:46:16,879 - DEBUG - Token read from user-info/token.txt
+2025-02-10 15:46:16,880 - DEBUG - First time check: false
+2025-02-10 15:46:16,880 - INFO - Syncing server with skidnet more?
+2025-02-10 15:46:16,882 - DEBUG - Starting new HTTPS connection (1): kittyrec.kittysec.com:443
+2025-02-10 15:46:16,970 - DEBUG - https://kittyrec.kittysec.com:443 "GET /api/check_version HTTP/11" 200 None
+2025-02-10 15:46:16,970 - DEBUG - API version fetched: 5.2
+2025-02-10 15:46:16,971 - DEBUG - Local version read: 5.2
+2025-02-10 15:46:16,971 - INFO - The program is up to date with version 5.2.
+2025-02-10 15:46:16,984 - DEBUG - Starting new HTTPS connection (1): kittyrec.kittysec.com:443
+2025-02-10 15:46:17,069 - DEBUG - https://kittyrec.kittysec.com:443 "GET /api/check_version HTTP/11" 200 None
+2025-02-10 15:46:17,069 - DEBUG - Server ping successful: https://kittyrec.kittysec.com/api/check_version
+2025-02-10 15:46:17,071 - DEBUG - Starting new HTTPS connection (1): dj-pain.github.io:443
+2025-02-10 15:46:17,151 - DEBUG - https://dj-pain.github.io:443 "GET /OldRecRoomCAPI/charades.txt HTTP/11" 200 3115
+2025-02-10 15:46:17,153 - INFO - File downloaded: C:\Users\Brahman\Desktop\MAKEAFUCKINGNIGGERSERVERforrecroom\LOCALHOST SERVER\data\user-info\charades.txt
+2025-02-10 15:46:17,163 - DEBUG - User data loaded from user-info/user.json
+2025-02-10 15:46:17,164 - DEBUG - Starting new HTTPS connection (1): kittyrec.kittysec.com:443
+2025-02-10 15:46:17,245 - DEBUG - https://kittyrec.kittysec.com:443 "GET /userdata?userid=116111 HTTP/11" 200 None
+2025-02-10 15:46:17,246 - DEBUG - Updated field 'username' to 'Brahman [DEV]'
+2025-02-10 15:46:17,246 - DEBUG - Updated field 'level' to '30'
+2025-02-10 15:46:17,247 - DEBUG - Updated field 'tokens' to '25'
+2025-02-10 15:46:17,248 - INFO - User data successfully updated in user.json
+2025-02-10 15:46:17,248 - INFO - Running KittyRec.py...

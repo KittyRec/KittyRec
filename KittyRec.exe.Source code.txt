@@ -1,0 +1,29 @@
+We used a program called Bat to Exe to create the KittySec executable.
+ However, it occasionally gets flagged due to how it's compiled. If you'd like to compile it yourself, here’s the exact script just convert this file to a bat :
+
+
+@echo off
+cd data
+cls
+color 5
+echo.
+echo 888    d8P  d8b 888    888             8888888b.                    
+echo 888   d8P   Y8P 888    888             888   Y88b                   
+echo 888  d8P        888    888             888    888                   
+echo 888d88K     888 888888 888888 888  888 888   d88P  .d88b.   .d8888b 
+echo 8888888b    888 888    888    888  888 8888888P"  d8P  Y8b d88P"    
+echo 888  Y88b   888 888    888    888  888 888 T88b   88888888 888      
+echo 888   Y88b  888 Y88b.  Y88b.  Y88b 888 888  T88b  Y8b.     Y88b.    
+echo 888    Y88b 888  "Y888  "Y888  "Y88888 888   T88b  "Y8888   "Y8888P 
+echo                                    888                              
+echo                               Y8b d88P                              
+echo                                "Y88P"                               
+echo.
+echo Welcome to KittyRec!
+echo An old Rec Room server built by KittySec
+echo Visit KittySec.com and join our Discord server!
+echo https://discord.gg/KVzVQNMt
+echo.
+pause
+python Update.py
+pause

@@ -1,0 +1,19 @@
+2025-02-10 16:02:32,364 - INFO - Starting aggressive Kittysec URL scan in directory: .
+2025-02-10 16:02:32,365 - INFO - Using 300 threads to scan ALL files and directories
+2025-02-10 16:02:32,451 - ERROR - Error in save_urls for scaned.py: list indices must be integers or slices, not str
+2025-02-10 16:02:32,452 - INFO - Found and saved 2 Kittysec URLs in scaned.py:
+2025-02-10 16:02:32,453 - INFO -   - 'kittysec.com'
+2025-02-10 16:02:32,453 - INFO -   - kittysec.com
+2025-02-10 16:02:32,580 - ERROR - Error in save_urls for KittyRec.exe.Source code.txt: list indices must be integers or slices, not str
+2025-02-10 16:02:32,581 - INFO - Found and saved 1 Kittysec URLs in KittyRec.exe.Source code.txt:
+2025-02-10 16:02:32,581 - INFO -   - KittySec.com
+2025-02-10 16:02:32,629 - ERROR - Error in save_urls for data\Update.py: list indices must be integers or slices, not str
+2025-02-10 16:02:32,680 - INFO - Found and saved 3 Kittysec URLs in data\Update.py:
+2025-02-10 16:02:32,681 - INFO -   - https://kittyrec.kittysec.com/api/check_version'
+2025-02-10 16:02:32,681 - INFO -   - https://kittyrec.kittysec.com/userdata
+2025-02-10 16:02:32,681 - ERROR - Error in save_urls for data\logs\update.log: list indices must be integers or slices, not str
+2025-02-10 16:02:32,681 - INFO -   - 'https://kittyrec.kittysec.com/api/check_version'
+2025-02-10 16:02:32,711 - INFO - Found and saved 3 Kittysec URLs in data\logs\update.log:
+2025-02-10 16:02:32,713 - INFO -   - kittyrec.kittysec.com:443
+2025-02-10 16:02:32,715 - INFO -   - https://kittyrec.kittysec.com:443
+2025-02-10 16:02:32,715 - INFO -   - https://kittyrec.kittysec.com/api/check_version

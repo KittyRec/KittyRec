@@ -1,9 +1,0 @@
-2025-02-10 15:58:45,942 - INFO - Starting Kittysec URL scan in directory: . with 300 threads
-2025-02-10 15:58:46,135 - ERROR - Error saving URLs for scaned.py: Expecting value: line 1 column 1 (char 0)
-2025-02-10 15:58:46,138 - WARNING - Error processing .\scaned.py: cannot access local variable 'temp_file' where it is not associated with a value
-2025-02-10 15:58:46,138 - ERROR - Error saving URLs for KittyRec.exe.Source code.txt: Expecting value: line 1 column 1 (char 0)
-2025-02-10 15:58:46,139 - WARNING - Error processing .\KittyRec.exe.Source code.txt: cannot access local variable 'temp_file' where it is not associated with a value
-2025-02-10 15:58:46,237 - ERROR - Error saving URLs for data\Update.py: Expecting value: line 1 column 1 (char 0)
-2025-02-10 15:58:46,237 - WARNING - Error processing .\data\Update.py: cannot access local variable 'temp_file' where it is not associated with a value
-2025-02-10 15:58:46,238 - ERROR - Error saving URLs for data\logs\update.log: Expecting value: line 1 column 1 (char 0)
-2025-02-10 15:58:46,238 - WARNING - Error processing .\data\logs\update.log: cannot access local variable 'temp_file' where it is not associated with a value

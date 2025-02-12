@@ -32,7 +32,7 @@ def print_welcome_message(stdscr):
 ██╔═██╗ ██║   ██║      ██║     ╚██╔╝  ██╔══██╗██╔══╝  ██║     
 ██║  ██╗██║   ██║      ██║      ██║   ██║  ██║███████╗╚██████╗
 ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝      ╚═╝   ╚═╝╚══════╝ ╚═════╝
-           First Public hybrid OldRecRoom server
+           First Public Hybrid OldRecRoom Server
                                                        
 """)
     stdscr.addstr(8, 0, "Fork of: https://github.com/RealMCoded/Rec.js/\n")

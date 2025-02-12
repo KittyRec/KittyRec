@@ -8,8 +8,6 @@ import logging
 from tqdm import tqdm
 from pathlib import Path
 
-print("Make sure you rerun Install.bat after every update.")
-print("It is located in the data folder")
 time.sleep(2)
 # THIS IS A TEST TO CHECK IF THE UPLOADER IS WORKING!!!
 # Set up logging
@@ -54,7 +52,7 @@ def check_first_time():
             logging.info("First time running the script")
             os.system("python user-info/FirstTime.py")
         else:
-            logging.info("Syncing server with skidnet more?")
+            logging.info("Syncing server with KittyNet...")
     else:
         logging.warning("FirstTimeTF.txt file does not exist.")
 
@@ -67,7 +65,7 @@ def ping_server(url):
         logging.debug(f"Server ping successful: {url}")
         return True
     except requests.exceptions.RequestException as e:
-        logging.error(f"Sync Failed. Server Offline Error Code: 503igma\n{e}")
+        logging.error(f"Sync Failed. Server Offline Error Code: {e}")
         time.sleep(8)
         sys.exit(1)
 

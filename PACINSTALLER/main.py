@@ -6,7 +6,7 @@ from tkinter import ttk, messagebox
 import threading
 import time
 import winreg
-
+ 
 class ModernInstallerUI:
     def __init__(self):
         self.root = tk.Tk()

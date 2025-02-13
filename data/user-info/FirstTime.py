@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = "kittyrec.kittysec.com/api/signup"
+url = "https://kittyrec.kittysec.com/api/signup"
 
 # Prompting the user for account information
 

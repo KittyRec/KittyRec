@@ -1,13 +1,14 @@
 import requests
 import json
 
-url = "https://rpq5drs9-8080.use.devtunnels.ms/api/signup"
+url = "kittyrec.kittysec.com/api/signup"
 
 # Prompting the user for account information
-print("\nIt looks like this is your first time here! Make a new account below.")
-username = input("\nEnter new username: ")
-password = input("Enter new password: ")
-email = input("Enter email: ")
+
+print("\nIt seems like it's your first time here! Make a new account below.\n")
+username = input("Enter new username: ")
+password = input("Enter password: ")
+email = input("Enter email (This is optional!): ")
 
 # Creating payload with user-provided information
 payload = {

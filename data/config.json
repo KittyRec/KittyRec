@@ -1,20 +1,1034 @@
-{
-    "defaultVersion": "2017",
-    "privateRooms": false,
-    "showDevInfo": false,
-    "autorunBuild": false,
-    "motdType": "VERSION",
-    "buildPaths":{
-        "rr2016":"2016/build/location/here.exe",
-        "rr2017":"2017/build/location/here.exe",
-        "rr2018":"2018/build/location/here.exe"
-    },
-    "ports":{
-        "API_2016":2016,
-        "API_2017":2017,
-        "API_2018":2018,
-        "WS":20161,
-        "NS":20181,
-        "IMG":20182
-    }
-}
+[
+  {
+    "EN_US": "Zombie",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Tourguide",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Viewer",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Vader",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Reaper",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Dracula",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Walker",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Witch",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Ghost",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Vampire",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Frankenstein",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Mummy",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Werewolf",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Friendzombie",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Allergicvampire",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Fastfoodwitch",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Yogaghost",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Closetmonster",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "BBQreaper",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Tiktokvampire",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Datingfrankenstein",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Chefzombie",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Coffinvampire",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Lostmummy",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Datewerewolf",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Cyclingfrankenstein",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Tedzombie",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Afraidghost",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Vegvampire",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Salonwerewolf",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Heightsuperhero",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Bakerycat",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Clown",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Hauntedwasher",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Insurevampire",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Lostastronaut",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Awkwardrobot",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Badmagician",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Detective",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Timetraveler",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Boxmime",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Yogadragon",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Badspeller",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Keyghost",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Vacationpenguin",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Officepirate",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "GPSvampire",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Capefearsuperhero",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Techwerewolf",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Chicken",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Terriblegenie",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Daterobot",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Snail",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Winezombie",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Drivegiraffe",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Passportghost",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "DiscoKnight",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Tangledmummy",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Veganvampire",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Stealthninja",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Haunteddishwasher",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Jokerobot",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Powerlesshero",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Poolvampire",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Dogfearwerewolf",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Airportghost",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Pedicurepirate",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Losthero",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Dancezombie",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Firedragon",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Gymskeleton",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Beautywerewolf",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Comedianrobot",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Therapyghost",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Failwizard",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Excitedsloth",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Badhaunter",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Talkvampire",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Fitmummy",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Dogshowcat",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Souffledragon",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Sidekickhero",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Singingvampire",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Interviewclown",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "IKEApirate",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Spaknight",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Spiderfearhero",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Flightlessdragon",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Clumsyninja",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Sarcasmrobot",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Sneezehero",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Vegwerewolf",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Weirdgenie",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Danceskeleton",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Selfievampire",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Mazighost",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Climbsloth",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Elevatormime",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Treasurehatingpirate",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "SalonZombie",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Haircutdragon",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Capelosshero",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Cleanfreakghost",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Catdog",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Badcutwerewolf",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Wandlesswizard",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Jobskeleton",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Darkfearninja",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Dancerobot",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Dancepirate",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Trafficdragon",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Backwardshero",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Bikezombie",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Bakewizard",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Stormfearwerewolf",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Seriousclown",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Movieescapeghost",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Dogcat",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Centurytraveler",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Cluelesshero",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Parkmummy",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Lostpirate",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Forgetfulwizard",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Tinycardragon",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Shadowfearninja",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Sleepervampire",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Baristawerewolf",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Liftingskeleton",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Selfieghost",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Failhero",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Holocaust",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Slavetrade",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Hiroshima",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "NineEleven",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Blackdeath",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "WWI",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "WWII",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Rwandan",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Cambodian",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Chinesefamine",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Potatofamine",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Partition",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Tiananmen",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Koreanwar",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Vietnam",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Armenian",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Spanishflu",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Holodomor",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Waronterror",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Tsunami2004",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Shaving",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Interview",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Security",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Bedmaking",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Baking",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Cycling",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Traffic",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Furniture",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Chess",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Manicure",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Gym",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Cookingclass",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Vacuum",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Parking",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Mall",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Spa",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Smartphone",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Yoga",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Bowling",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Ordering",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Rollercoaster",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Laundry",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Dinner",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Party",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Christmas",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Sneeze",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Socks",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Magicfail",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Date",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Yogafit",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Jog",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Selfie",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Basketball",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Petstore",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Pizza",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Grocery",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Fastfood",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Piano",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Smoothie",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Window",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Concert",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Themepark",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Washingmachine",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Laundryagain",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Fashion",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Jar",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Coffeeshop",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Nap",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Dog",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Cat",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Ball",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Car",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Tree",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Book",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Pen",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Chair",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Table",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Shirt",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Cup",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "House",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Window",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Phone",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Shoe",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Hat",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Pizza",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Apple",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Fish",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Bird",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Flower",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Toy",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Bag",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Computer",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Icecream",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Bicycle",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Clock",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Lemon",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Teddybear",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Balloon",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Run",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Jump",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Walk",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Sit",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Stand",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Dance",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Eat",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Drink",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Sleep",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Talk",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Sing",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Read",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Write",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Play",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Swim",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Climb",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Laugh",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Cry",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Draw",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Cook",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Look",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Open",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Close",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Throw",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Catch",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Kick",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Hug",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Push",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Pull",
+    "Difficulty": 0
+  },
+  {
+    "EN_US": "Touch",
+    "Difficulty": 0
+  }
+]
